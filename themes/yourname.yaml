@@ -33,7 +33,8 @@ yourname:
   ### Labels ###
   label-badge-background-color: "#1E2747"
   label-badge-text-color: "#FFFFFF"
-  label-badge-red: "#3B4C8B"
+  label-badge-red: "#94261d"
+  label-badge-yellow: "#dca304"
   ### Cards ###
   ha-card-border-radius: '20px'
   paper-card-header-color: "#FFFFFF"
@@ -49,5 +50,5 @@ yourname:
   table-row-alternative-background-color: var(--primary-background-color)
   data-table-background-color: var(--primary-background-color)
   ### Switches ###
-  switch-unchecked-button-color: "#303F79"
-  switch-unchecked-track-color: "#303F79"
+  switch-unchecked-button-color: "#3B4C8B"
+  switch-unchecked-track-color: "#3B4C8B"
