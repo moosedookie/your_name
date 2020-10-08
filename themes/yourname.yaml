@@ -18,14 +18,14 @@ yourname:
   sidebar-icon-color: "#4F6B95"
   sidebar-text-color: "#CBD5E4"
   sidebar-selected-background-color: var(--primary-background-color)
-  sidebar-selected-icon-color: "#4DA3FF"
+  sidebar-selected-icon-color: var(--light-primary-color)
   sidebar-selected-text-color: var(--sidebar-selected-icon-color)
   ### States and Badges ###
-  state-icon-color: "#007AFF"
+  state-icon-color: var(--primary-color)
   state-icon-active-color: "#FBCD41"
   state-icon-unavailable-color: var(--disabled-text-color)
   ### Sliders ###
-  paper-slider-knob-color: "#007AFF"
+  paper-slider-knob-color: var(--primary-color)
   paper-slider-knob-start-color: var(--paper-slider-knob-color)
   paper-slider-pin-color: var(--paper-slider-knob-color)
   paper-slider-active-color: var(--paper-slider-knob-color)
@@ -43,7 +43,7 @@ yourname:
   paper-listbox-background-color: var(--primary-background-color)
   ### Toggles ###
   paper-toggle-button-checked-button-color: "#FCFCFC"
-  paper-toggle-button-checked-bar-color: "#4DA3FF"
+  paper-toggle-button-checked-bar-color: var(--light-primary-color)
   paper-toggle-button-unchecked-button-color: var(--paper-toggle-button-checked-button-color)
   paper-toggle-button-unchecked-bar-color: "#303F79"
   ### Table row ###
@@ -51,5 +51,5 @@ yourname:
   table-row-alternative-background-color: var(--primary-background-color)
   data-table-background-color: var(--primary-background-color)
   ### Switches ###
-  switch-unchecked-button-color: "#3B4C8B"
-  switch-unchecked-track-color: "#3B4C8B"
+  switch-unchecked-button-color: var(--divider-color)
+  switch-unchecked-track-color: var(--divider-color)
